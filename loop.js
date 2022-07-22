@@ -37,6 +37,7 @@
 // console.log(i); //if you defined varialb with var it show the outside the block because it having the global scope
 
 // *sum of first 10 natural number using for loop;
+
 // let num=10;
 // let sum = 0;
 // for(let i=0;i<=num;i++)
@@ -56,5 +57,10 @@
 // console.log(i);
 
 
-
-
+let num=10;
+let sum = 0;
+for(let i=0;i<=num;i++)
+{
+sum = sum +  i;
+}
+console.log(sum);
