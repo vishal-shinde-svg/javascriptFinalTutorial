@@ -8,10 +8,5 @@
 // }
 
 //Contiune- skip the current execution or(current iteration ) and continue the next iteration.
- for(let i=0;i<=10;i++)
- {
-    if(i==7)
-    continue;
-    console.log(i);
-    
- }
+
+
